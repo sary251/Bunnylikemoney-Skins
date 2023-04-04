@@ -15,3 +15,6 @@ These are a list of my skins.
 
 # [Ninerik Old](https://drive.google.com/file/d/1FTwzDpBSc4gQU8FfhjQExOutSRHwksEC/view?usp=sharing)
 ![](https://i.imgur.com/df24izs.jpg)
+
+# [tekkito2_exarch](https://drive.google.com/file/d/1ScExYU2G3rXaWPRTkZipyVIh8AnABcjA/view)
+![](https://i.imgur.com/M2uL6Fn.png)
